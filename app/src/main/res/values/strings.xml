@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakupy</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_disable">click only once</string>
+    <string name="button_enable">enable again</string>
+    <string name="element_text">Element</string>
+    <string-array name="products">
+        <item>Yapka</item>
+        <item>Grushki</item>
+        <item>Ogurki</item>
+    </string-array>
+</resources>
