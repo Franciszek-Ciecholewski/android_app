@@ -6,8 +6,5 @@
     <string name="button_enable">enable again</string>
     <string name="element_text">Element</string>
     <string-array name="products">
-        <item>Yapka</item>
-        <item>Grushki</item>
-        <item>Ogurki</item>
     </string-array>
 </resources>
